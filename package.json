@@ -1,0 +1,35 @@
+{
+  "name": "projeto-mailez-lipedema-quiz",
+  "version": "1.0.0",
+  "description": "Landing page de quiz completa para o Projeto Mailez 21 Dias - Tratamento de Lipedema",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8000 -o",
+    "serve": "npx http-server -p 8000",
+    "dev": "npx http-server -p 8000 -c-1"
+  },
+  "keywords": [
+    "lipedema",
+    "quiz",
+    "landing-page",
+    "conversão",
+    "mailez",
+    "21-dias",
+    "tratamento",
+    "saúde",
+    "bem-estar"
+  ],
+  "author": "Projeto Mailez",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/projeto-mailez-lipedema-quiz"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/projeto-mailez-lipedema-quiz/issues"
+  },
+  "homepage": "https://github.com/seu-usuario/projeto-mailez-lipedema-quiz#readme"
+}
