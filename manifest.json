@@ -1,9 +1,0 @@
-{
-  "manifest_version": 3,
-  "name": "Mailez Colombia",
-  "version": "1.0.0",
-  "description": "Extensão básica em JSON para inicializar um pacote de extensão do navegador.",
-  "action": {
-    "default_title": "Mailez"
-  }
-}
